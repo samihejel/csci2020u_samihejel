@@ -1,3 +1,4 @@
 class Hi{
-    int x = 1;
+    int x = 0;
+    x = 1;
 }
